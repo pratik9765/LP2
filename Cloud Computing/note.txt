@@ -8,3 +8,6 @@ jdk-15.0.2_windows-x64_bin
 jdk-19.0.1
 jre 1.8.0_202
 Apache tomcat v9
+
+sudo adduser nugrid vboxsf
+sudo reboot
