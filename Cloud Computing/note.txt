@@ -1,0 +1,3 @@
+vim -> to create file
+:qa! -> to save and exit
+:wq -> to save and exit
