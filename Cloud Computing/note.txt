@@ -1,3 +1,9 @@
 vim -> to create file
 :qa! -> to save and exit
 :wq -> to save and exit
+
+
+PASS app hosting jdk 1.8.0_202
+jdk-15.0.2_windows-x64_bin
+jdk-19.0.1
+jre 1.8.0_202
