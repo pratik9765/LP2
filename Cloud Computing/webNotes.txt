@@ -1,0 +1,29 @@
+npm install -g npm@9.6.7 ->install angular
+ng new-app 
+cd new-app
+ng serve --open ->to open server
+ng g c components/register ->creating folder
+open register.components.ts take selector and put it into app.components.html
+
+
+DOCKER
+
+open cmd: docker -v
+docker images
+docker ps ->list all containers
+open docker hub on chrome search for openjdk and copy paste cmd on cmd
+docker run --name JAVA -it -d openjdk
+docker ps
+docker exec -it JAVA jshell
+code:
+system.out.println("HEllo")
+int a=10
+int b=20
+system.out.println(a+b)
+/exit
+
+for remove container 
+docker stop conatiner_id
+docker container rm id
+
+
